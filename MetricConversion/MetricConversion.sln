@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetricConversion", "MetricConversion.csproj", "{0A6B43CE-B5CC-46C0-AB20-B90EFF7A36AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricConversionUnitTest", "..\MetricConversionUnitTest\MetricConversionUnitTest.csproj", "{3F3A85BD-0D46-4153-B7B7-9694D4441899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6B43CE-B5CC-46C0-AB20-B90EFF7A36AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6B43CE-B5CC-46C0-AB20-B90EFF7A36AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6B43CE-B5CC-46C0-AB20-B90EFF7A36AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6B43CE-B5CC-46C0-AB20-B90EFF7A36AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3A85BD-0D46-4153-B7B7-9694D4441899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3A85BD-0D46-4153-B7B7-9694D4441899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3A85BD-0D46-4153-B7B7-9694D4441899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3A85BD-0D46-4153-B7B7-9694D4441899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C199DC3-F0EE-4AB8-9A06-933944920F3D}
+	EndGlobalSection
+EndGlobal
